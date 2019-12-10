@@ -13,3 +13,4 @@
 * Whatever data that is written to the file can be read, but its not what is supposed to be read or written.
 * Stats have been added mostly.
 * Scene buttons all work as intended.
+* The Library folder could not be added?
